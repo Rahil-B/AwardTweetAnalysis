@@ -24,7 +24,7 @@
 
 ##3. Download NLTK Data :
 
-    python -m nltk.downloader brown punkt averaged_perceptron_tagger
+    python -m nltk.downloader brown punkt averaged_perceptron_tagger maxent_ne_chunker words
 
 ##4. Download TextBlob Corpora:
 

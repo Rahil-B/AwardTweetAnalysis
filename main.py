@@ -8,12 +8,6 @@ from langdetect import detect
 import nltk
 from textblob import TextBlob
 
-# Download required NLTK data
-nltk.download('punkt')
-nltk.download('averaged_perceptron_tagger')
-nltk.download('maxent_ne_chunker')
-nltk.download('words')
-
 # Load the dataset
 with open('data/gg2013.json', 'r') as file:
     tweets = json.load(file)
