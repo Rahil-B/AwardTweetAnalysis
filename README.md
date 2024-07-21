@@ -1,5 +1,3 @@
-# AwardTweetAnalysis
-
 # Golden Globes Tweet Mining Project
 
 ## Setup Instructions
@@ -8,13 +6,13 @@
 
     python -m venv venv
 
-    ### Activate the virtual environment:
+### Activate the virtual environment:
 
-    ### On Windows:
+### On Windows:
 
     venv\Scripts\activate
 
-    ### On macOS/Linux:
+### On macOS/Linux:
 
     source venv/bin/activate
 
@@ -22,14 +20,14 @@
 
     pip install -r requirements.txt
 
-##3. Download NLTK Data :
+## 3. Download NLTK Data :
 
     python -m nltk.downloader brown punkt averaged_perceptron_tagger
 
-##4. Download TextBlob Corpora:
+## 4. Download TextBlob Corpora:
 
     python -m textblob.download_corpora
 
-##5. Run Your Script
+## 5. Run Your Script
 
     python main.py
