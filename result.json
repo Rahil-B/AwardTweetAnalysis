@@ -1,0 +1,231 @@
+{
+  "Host": ["Tina Fey", "Amy Poehler"],
+  "Awards": {
+    "cecil b. demille award": {
+      "presenter": [],
+      "nominees": ["Kevin Spacey"],
+      "winner": "Kevin Spacey"
+    },
+    "best motion picture - drama": {
+      "presenter": "Clinton Lincoln and Pretty Woman",
+      "nominees": [
+        "Argo",
+        "Les",
+        "Miserables",
+        "Les Miserables",
+        "Hugh Jackman"
+      ],
+      "winner": "Argo"
+    },
+    "best performance by an actress in a motion picture - drama": {
+      "presenter": "Watched  Good Night",
+      "nominees": [
+        "Jessica Chastain",
+        "Zero Dark",
+        "Jennifer Lawrence",
+        "W Best",
+        "C Jennifer"
+      ],
+      "winner": "Jessica Chastain"
+    },
+    "best performance by an actor in a motion picture - drama": {
+      "presenter": "Daniel Day",
+      "nominees": [
+        "Hugh Jackman",
+        "Les Miserables",
+        "Daniel Day",
+        "Guide Best",
+        "Les Mis"
+      ],
+      "winner": "Hugh Jackman"
+    },
+    "best motion picture - comedy or musical": {
+      "presenter": "Dustin Hoffman",
+      "nominees": [
+        "Les",
+        "Miserables",
+        "Hugh Jackman",
+        "Les Miserables",
+        "Hugh"
+      ],
+      "winner": "Les"
+    },
+    "best performance by an actress in a motion picture - comedy or musical": {
+      "presenter": "Will Ferrell and Kristen Wiig",
+      "nominees": [
+        "Jennifer Lawrence",
+        "Silver Linings",
+        "Post Lena",
+        "Lena Dunham",
+        "P Lawrence"
+      ],
+      "winner": "Jennifer Lawrence"
+    },
+    "best performance by an actor in a motion picture - comedy or musical": {
+      "presenter": [],
+      "nominees": [
+        "Hugh Jackman",
+        "Les Miserables",
+        "Los Miserables",
+        "Fair Who",
+        "Bradley Cooper"
+      ],
+      "winner": "Hugh Jackman"
+    },
+    "best animated feature film": {
+      "presenter": "Bill Maybe and Sacha Baron",
+      "nominees": ["Brave", "Disney", "Wreck", "It", "Ralph"],
+      "winner": "Brave"
+    },
+    "best foreign language film": {
+      "presenter": "Stallone Schwarzenegger",
+      "nominees": ["Amour", "Austria", "Michael Haneke", "Michael", "Haneke"],
+      "winner": "Amour"
+    },
+    "best performance by an actress in a supporting role in a motion picture": {
+      "presenter": "Lifetime Achievement and Lindsay Lohan",
+      "nominees": [
+        "Anne Hathaway",
+        "Les Miserables",
+        "Ent Anne",
+        "Guide Best",
+        "Y M"
+      ],
+      "winner": "Anne Hathaway"
+    },
+    "best performance by an actor in a supporting role in a motion picture": {
+      "presenter": "Bradley Cooper and Kate Hudson",
+      "nominees": [
+        "Christoph Waltz",
+        "Django Unchained",
+        "N Best",
+        "Waltz Django",
+        "Thank God"
+      ],
+      "winner": "Christoph Waltz"
+    },
+    "best director - motion picture": {
+      "presenter": "Ben Affleck",
+      "nominees": [
+        "Ben Affleck",
+        "Guide Best",
+        "U S",
+        "Damian Bets",
+        "Quentin Tarantino"
+      ],
+      "winner": "Ben Affleck"
+    },
+    "best screenplay - motion picture": {
+      "presenter": "Robert Pattinson",
+      "nominees": ["Django", "Quentin Tarantino", "Quentin", "Tarantino", "Cl"],
+      "winner": "Django"
+    },
+    "best original score - motion picture": {
+      "presenter": "Mychael Danna",
+      "nominees": ["Pi", "Life", "Danna", "Mychael", "Mychael Danna"],
+      "winner": "Pi"
+    },
+    "best original song - motion picture": {
+      "presenter": "Kanye West",
+      "nominees": ["Skyfall", "Adele", "Pi", "Life", "Danna"],
+      "winner": "Skyfall"
+    },
+    "best television series - drama": {
+      "presenter": "Paul Rudd and Will Ferrel",
+      "nominees": ["Homeland", "V Series", "V Movie", "Movie", "Miniseries"],
+      "winner": "Homeland"
+    },
+    "best performance by an actress in a television series - drama": {
+      "presenter": "Nathan Fillion  Lea Michele",
+      "nominees": [
+        "Lena Dunham",
+        "Claire Danes",
+        "Julianne Moore",
+        "Fair A",
+        "Game Change"
+      ],
+      "winner": "Lena Dunham"
+    },
+    "best performance by an actor in a television series - drama": {
+      "presenter": [],
+      "nominees": [
+        "Kevin Costner",
+        "Damian Lewis",
+        "Don Cheadle",
+        "Damien Lewis",
+        "V Ed"
+      ],
+      "winner": "Kevin Costner"
+    },
+    "best television series - comedy or musical": {
+      "presenter": "Jay Leno  Jimmy Fallon",
+      "nominees": ["Girls", "Lena", "Dunham", "Lena Dunham", "Don"],
+      "winner": "Girls"
+    },
+    "best performance by an actress in a television series - comedy or musical": {
+      "presenter": [],
+      "nominees": [
+        "Lena Dunham",
+        "Fair Congratulations",
+        "Jj Girls",
+        "Guide Best",
+        "Ent Lena"
+      ],
+      "winner": "Lena Dunham"
+    },
+    "best performance by an actor in a television series - comedy or musical": {
+      "presenter": [],
+      "nominees": ["Don Cheadle", "Grind Don", "Guide Don", "Lies Awesome"],
+      "winner": "Don Cheadle"
+    },
+    "best mini-series or motion picture made for television": {
+      "presenter": [],
+      "nominees": ["Maggie", "Smith", "Downton", "Abbey", "Season"],
+      "winner": "Maggie"
+    },
+    "best performance by an actress in a mini-series or motion picture made for television": {
+      "presenter": [],
+      "nominees": [
+        "Lena Dunham",
+        "Claire Danes",
+        "Julianne Moore",
+        "Fair A",
+        "Game Change"
+      ],
+      "winner": "Lena Dunham"
+    },
+    "best performance by an actor in a mini-series or motion picture made for television": {
+      "presenter": [],
+      "nominees": [
+        "Kevin Costner",
+        "Damian Lewis",
+        "Don Cheadle",
+        "Damien Lewis",
+        "V Ed"
+      ],
+      "winner": "Kevin Costner"
+    },
+    "best performance by an actress in a supporting role in a series, mini-series or motion picture made for television": {
+      "presenter": "Anne Hathaway and Les Miserables",
+      "nominees": [
+        "Maggie Smith",
+        "Downton Abbey",
+        "Fair Maggie",
+        "Abbey Sadly",
+        "Waldo Best"
+      ],
+      "winner": "Maggie Smith"
+    },
+    "best performance by an actor in a supporting role in a series, mini-series or motion picture made for television": {
+      "presenter": [],
+      "nominees": [
+        "Ed Harris",
+        "Game Change",
+        "Waldo Best",
+        "Lachlan Best",
+        "Piper Laurie"
+      ],
+      "winner": "Ed Harris"
+    }
+  }
+}

@@ -1,9 +1,12 @@
 import json
 import pandas as pd
+import re
+
+
 with open('gg2013.json', 'r') as f:
     data = json.load(f)
 df = pd.DataFrame(data)
-#print(df.head())
+print(df.head())
 
 
 # nominees in 2013 Golden Globe Awards from imdb
@@ -34,13 +37,22 @@ List_Awards_Nominee = {"Best Motion Picture - Drama" : ['Argo', 'Django Unchaine
                         "Best Performance by an Actor in a Supporting Role in a Series, Mini-Series or Motion Picture Made for Television": ["Max Greenfield","Ed Harris","Danny Huston","Mandy Patinkin","Eric Stonestreet"],
                         "Best Performance by an Actress in a Supporting Role in a Series, Mini-Series or Motion Picture Made for Television": ["Hayden Panettiere","Archie Panjabi","Sarah Paulson","Maggie Smith","Sofía Vergara"]
                         }
-unique_names = set()
-for a in List_Awards_Nominee.values():
-    for b in a:
-        unique_names.add(b)
-print(len(unique_names))
-print(len([a for a in List_Awards_Nominee.values()])*5)
+# print(List_Awards_Nominee)
 
-# golden globe -> Two subframes
-# Nominees, Winners
-# 
+awards_winner_counter = {"Best Motion Picture - Drama" : dict()}
+
+class TweetScanner: 
+  def __init__(self): 
+    self.winner_pattern = re.compile(r'wins|won|winner|winning|awarded|begs')
+    self.tweet_count = 0
+    winning_keywords = ["wins", "won", "winner", "winning", "awarded"]
+
+  def get_winner(self,award_name, nominee_list,text):
+    if award_name in text:
+        winning = self.winner_pattern.search(text)
+        if winning != None:
+            nominee_string = '|'.join([nm.replace(' ','\b') for nm in nominee_list])
+            
+            
+
+

@@ -1,0 +1,4 @@
+eredcarpet, 543
+"Jennifer Lopez":["Jennifer Lopez", "JLo"]
+
+wins + if, wins + hoping/hope -> Ignore
